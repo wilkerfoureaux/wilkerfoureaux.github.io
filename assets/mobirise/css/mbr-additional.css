@@ -1204,7 +1204,8 @@ section.lazy-placeholder:after {
 .cid-rFPD7gVWzP h3,
 .cid-rFPD7gVWzP h4,
 .cid-rFPD7gVWzP h5,
-.cid-rFPD7gVWzP div.content {
+.cid-rFPD7gVWzP div.content,
+.cid-rFPD7gVWzP .slogan {
   font-family: Lato, "Lucida Grande", Tahoma, Sans-Serif;
 }
 .cid-rFPD7gVWzP h1,
@@ -1212,6 +1213,13 @@ section.lazy-placeholder:after {
 .cid-rFPD7gVWzP h3 {
   font-weight: bold;
   padding-top: 20px;
+}
+.cid-rFPD7gVWzP small {
+  font-size: 11px;
+}
+.cid-rFPD7gVWzP span.mbri-more-horizontal {
+  vertical-align: sub;
+  padding-left: 5px;
 }
 .cid-rFVjFIYuHU {
   padding-top: 0px;

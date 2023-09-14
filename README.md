@@ -1,3 +1,3 @@
-# wvfvcv
-my curriculum
-http://wilkerfoureaux.github.io/wvfvcv
+👨‍💻 my old curriculum, made with mobirise
+🔗 https://wilkerfoureaux.github.io
+(old version, read the new here 👉 https://wilker.dev)
